@@ -2,8 +2,9 @@
 - 👀 I am a university student with major in computer network and telecommunication. 
 - 💞️ With knowledge about network structure and operating system, I can manage network operations, provide technical support and maintain IT devices.
 - 📫 Contact me:
-   + Phone: (+84) 824 588 968
+   + Phone: (+84) 368 236 202
    + Email: buiphuocthinh147369@gmail.com
+   + Skype: buiphuocthinh147369
 
 <!---
 iwa147369/iwa147369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
