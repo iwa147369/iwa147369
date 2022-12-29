@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iwa147369
-- 👀 I am a university student with major in computer network and telecommunication. 
-- 💞️ With knowledge about network structure and operating system, I can manage network operations, provide technical support and maintain IT devices.
+- 👋 Hi, I’m Henry
+- 👀 I am currently studying informatics at a university and have a particular interest in Network, Cloud and Blockchain technologies. 
+- 💞️ With knowledge about network structure and operating system, I enjoy solving network related problems, creating the best experience for users. I also spend time learning new technologies and best practices to become a better engineer.
 - 📫 Contact me:
    + Phone: (+84) 368 236 202
    + Email: buiphuocthinh147369@gmail.com
